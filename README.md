@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of oe800/flarum-ext-bbcode-fontizymo.** Not for installation: use [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-fontizymo) or the [upstream repository](https://github.com/0E800/flarum-ext-bbcode-fontizymo).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.4) · Flarum: `^0.1.0-beta.6`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.4) · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-05-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-05-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-05-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-05-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.3) |
+| `0.1.4` | 2017-05-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-fontizymo/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/oe800-flarum-ext-bbcode-fontizymo.json](https://github.com/flarchive/archive-index/blob/main/packages/oe800-flarum-ext-bbcode-fontizymo.json)
 
